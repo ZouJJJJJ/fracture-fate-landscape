@@ -1,0 +1,28 @@
+# ----------------------------------------------------------------------------
+# Python environment for "Reconstructing the stochastic Waddington landscape
+# of bone regeneration identifies CDK8 as a pan-non-union therapeutic target".
+#
+# Tested on Linux, CPython 3.12, CPU-only. The pinned versions record the exact
+# environment used to generate the committed results; newer patch releases will
+# generally work but are not guaranteed to reproduce every digit.
+# ----------------------------------------------------------------------------
+numpy==1.26.4
+scipy==1.17.1
+pandas==2.2.3
+scikit-learn==1.4.0
+matplotlib==3.11.0
+seaborn==0.13.2
+pillow==10.4.0
+networkx==3.7
+joblib==1.6.0
+h5py==3.16.0
+python-docx==1.2.0
+
+# RUOT neural-ODE stack (CPU build). On the CPU PyPI wheel the tag is torch 2.14.0.
+torch==2.14.0
+torchdiffeq==0.2.3
+TorchDiffEqPack==1.0.1
+
+# Imported by the vendored DiffusionOT utility (neighbour/plotting helpers).
+scanpy
+anndata

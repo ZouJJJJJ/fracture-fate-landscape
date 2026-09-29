@@ -1,0 +1,3 @@
+Vendored from DiffusionOT (https://github.com/liujuntan/DiffusionOT),
+MIT License, Copyright (c) 2025 Juntan Liu; see LICENSE. Copied verbatim;
+only the files imported by this study are included (utility.py, training.py, AE/).

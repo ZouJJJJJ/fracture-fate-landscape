@@ -1,0 +1,6 @@
+,prog_SSPC,chondro,fibrous,hypertrophic,osteoblast,proliferation
+mesenchyme_condensation,0.386,0.229,0.736,0.028,0.008,0.672
+committed_chondro,0.22,0.71,0.549,0.046,0.012,0.172
+fibrous_perichondrium,0.407,0.282,1.113,0.029,0.01,0.181
+tendon,0.53,0.669,0.823,0.054,0.017,0.598
+immune,0.225,0.185,0.8,0.025,0.013,0.321

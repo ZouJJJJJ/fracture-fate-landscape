@@ -1,0 +1,5 @@
+dataset,sampling_time,unified_biological_stage,n_cells
+GSE185940,E11.5,limb mesenchyme / mesenchymal condensation,5760
+GSE185940,E12.5,mesenchymal condensation / chondrogenic commitment,6144
+GSE185940,E13.5,committed proliferative chondrocytes,7680
+GSE185940,E14.5,committed chondrocytes + fibrous perichondrium,7680
